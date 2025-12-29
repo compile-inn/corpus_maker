@@ -5,4 +5,4 @@ This short script takes a text file and returns a list of its words stored in JS
 Preprocessing for the hearsay generator I am adding to my personal website. Typically, a vocabulary rich or unsual book would be feed to the script. I always like to put King Arthur and the Knights of the Round Table. My gratitude goes to the GutenbergProject people.
 
 ## What next?
-Since all this is to have a little fun, I might add some other features such as word counting, longest word, most used word, on so on. Just some ridiculous analytics to parse an author text.
+Since all this is to have a little fun, I might add some other features such as word counting, longest word, most used word, on so on. Just some ridiculous analytics to parse an author's artistic vision of the world.
